@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @httpssongjian
-- 👀 I’m interested in : java/vue3/react/next/python
-- 🌱 I’m currently learning : next/python
-- 💞️ I’m looking to collaborate on : next
+- 👀 I’m interested in : java/vue3/react/python
+- 🌱 I’m currently learning : ai fullstack
+- 💞️ I’m looking to collaborate on : ai workflow
 - 📫 How to reach me : by issue
 
 <!---
